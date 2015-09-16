@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說梵摩難國王經
+#+DATE: 2015-08-30 20:11:14.813849
+#+PROPERTY: JUAN 0
