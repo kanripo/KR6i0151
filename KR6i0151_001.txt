@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:16.109777
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:44
 #+TITLE: 佛說梵摩難國王經
 #+PROPERTY: CBETA_ID T14n0521
 #+PROPERTY: ID KR6i0151
